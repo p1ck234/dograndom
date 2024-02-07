@@ -1,0 +1,25 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+.container {
+  height: 500px;
+  width: 500px;
+  margin: auto;
+  background-image: url();
+}
+
+.box__input {
+  display: flex;
+}
+.button {
+  height: 20px;
+  width: 500px;
+  margin: auto;
+}
+.loading {
+  display: none;
+}
